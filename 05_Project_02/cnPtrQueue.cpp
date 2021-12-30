@@ -1,4 +1,4 @@
-/*  boolcnPtrQueue::empty() const{} -> Returns true if BOTH inStack and outStack are empty
+/*  bool cnPtrQueue::empty() const{} -> Returns true if BOTH inStack and outStack are empty
  *  cnPtrQueue::size_type cnPtrQueue::size() const{} will return numItems for that given queue
  *  CNode* cnPtrQueue::front(){} will send a node to the front of a given stack
  */
